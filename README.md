@@ -1,2 +1,1 @@
-# clistudy
-Study about Command Line Tool Designs
+# A Study of Command Line Tools
